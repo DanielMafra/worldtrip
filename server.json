@@ -1,0 +1,184 @@
+{
+  "continents": [
+    {
+      "id": 1,
+      "slug": "africa",
+      "name": "África",
+      "image": "/assets/africa.png",
+      "description": "A África é o terceiro continente mais extenso (depois da Ásia e da América) com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra (atrás da Ásia) com cerca de um bilhão de pessoas (estimativa para 2005), representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "countries": "54",
+      "langs": "2000",
+      "visiteds": "27",
+      "cities": [
+        {
+          "name": "Joanesburgo",
+          "locale": "África do Sul",
+          "image": "/assets/africa.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Cape Town",
+          "locale": "África do Sul",
+          "image": "/assets/africa.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Durban",
+          "locale": "África do Sul",
+          "image": "/assets/africa.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Entebbe",
+          "locale": "Uganda",
+          "image": "/assets/africa.png",
+          "flag": "/assets/flags/uganda.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "america",
+      "name": "América",
+      "image": "/assets/america.png",
+      "description": "América (algumas vezes usado o termo Américas) é o continente localizado no hemisfério ocidental e que se estende, no sentido norte-sul, desde o oceano Ártico até o cabo Horn, ao longo de cerca de 15 mil quilômetros. O seu extremo oriental insular (não continental) encontra-se na Groenlândia, o Nordostrundingen, enquanto o ocidental localiza-se nas Aleutas.",
+      "countries": "35",
+      "langs": "1061",
+      "visiteds": "27",
+      "cities": [
+        {
+          "name": "Joanesburgo",
+          "locale": "África do Sul",
+          "image": "/assets/america.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Cape Town",
+          "locale": "África do Sul",
+          "image": "/assets/america.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Durban",
+          "locale": "África do Sul",
+          "image": "/assets/america.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Entebbe",
+          "locale": "Uganda",
+          "image": "/assets/america.png",
+          "flag": "/assets/flags/uganda.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "asia",
+      "name": "Ásia",
+      "image": "/assets/asia.png",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "countries": "50",
+      "langs": "2301",
+      "visiteds": "27",
+      "cities": [
+        {
+          "name": "Joanesburgo",
+          "locale": "África do Sul",
+          "image": "/assets/asia.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Cape Town",
+          "locale": "África do Sul",
+          "image": "/assets/asia.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Durban",
+          "locale": "África do Sul",
+          "image": "/assets/asia.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Entebbe",
+          "locale": "Uganda",
+          "image": "/assets/asia.png",
+          "flag": "/assets/flags/uganda.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "europe",
+      "name": "Europa",
+      "image": "/assets/europe.png",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "countries": "50",
+      "langs": "60",
+      "visiteds": "27",
+      "cities": [
+        {
+          "name": "Joanesburgo",
+          "locale": "África do Sul",
+          "image": "/assets/europe.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Cape Town",
+          "locale": "África do Sul",
+          "image": "/assets/europe.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Durban",
+          "locale": "África do Sul",
+          "image": "/assets/europe.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Entebbe",
+          "locale": "Uganda",
+          "image": "/assets/europe.png",
+          "flag": "/assets/flags/uganda.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "oceania",
+      "name": "Oceania",
+      "image": "/assets/oceania.png",
+      "description": "Oceania ou Oceânia é uma região geográfica composta por vários grupos de ilhas do oceano Pacífico (Polinésia, Melanésia e Micronésia). O termo Oceania foi criado em 1831 pelo explorador francês Dumont d'Urville. O termo é usado hoje em vários idiomas para designar uma região geográfica e política que compreende o continente da Austrália e ilhas do Oceano Pacífico adjacentes.",
+      "countries": "16",
+      "langs": "820",
+      "visiteds": "27",
+      "cities": [
+        {
+          "name": "Joanesburgo",
+          "locale": "África do Sul",
+          "image": "/assets/oceania.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Cape Town",
+          "locale": "África do Sul",
+          "image": "/assets/oceania.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Durban",
+          "locale": "África do Sul",
+          "image": "/assets/oceania.png",
+          "flag": "/assets/flags/africa-do-sul.png"
+        },
+        {
+          "name": "Entebbe",
+          "locale": "Uganda",
+          "image": "/assets/oceania.png",
+          "flag": "/assets/flags/uganda.png"
+        }
+      ]
+    }
+  ]
+}

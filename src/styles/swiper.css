@@ -1,0 +1,14 @@
+.swiper-button-prev:after, .swiper-button-next:after{
+  color: #FFBA08;
+}
+
+.swiper-pagination-bullet{
+  min-width:16px !important;
+  min-height:16px !important;
+  background:#999999 !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active{
+  background:#FFBA08 !important;
+}
